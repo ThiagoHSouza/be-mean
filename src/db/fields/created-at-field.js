@@ -1,1 +1,4 @@
-module.exports = { type: Date, default: Date.now }
+module.exports = { 
+	type    : Date,
+	default : Date.now
+}
